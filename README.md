@@ -12,14 +12,14 @@
 3. run node app.js <path/to/file> <extensions (optional)> <delete (optional)>
 
 Examples
-''''
+```
 node app.js 'C:\Users\Zeferis\Desktop\Новая папка' mp3,gif delete
-''''
+```
 Создаст в новой директории с папками, названия которых будут по первой букве всех mp3 и gif файлов в 
 'C:\Users\Zeferis\Desktop\Новая папка', внутри которых будут эти файлы, и удалит эти файлы из первой директории
 
-''''
+```
 node app.js 'C:\Users\Zeferis\Desktop\Новая папка2' 
-''''
+```
 
 Пройдёт по всем файлам, создаст  новую директорию и оставит старую
