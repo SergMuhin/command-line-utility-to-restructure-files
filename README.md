@@ -11,7 +11,7 @@
 2. run npm i
 3. run node app.js <path/to/file> <extensions (optional)> <delete (optional)>
 
-Examples
+Examples:
 ```
 node app.js 'C:\Users\Zeferis\Desktop\Новая папка' mp3,gif delete
 ```
